@@ -42,3 +42,28 @@
 
 .#{$wi-css-prefix}-flip-horizontal { @include wi-icon-flip(-1, 1, 0); }
 .#{$wi-css-prefix}-flip-vertical   { @include wi-icon-flip(1, -1, 2); }
+
+.#{$wi-css-prefix}-wind-default._0-deg { @include wi-icon-rotate(0deg, 4); }
+.#{$wi-css-prefix}-wind-default._15-deg { @include wi-icon-rotate(15deg, 4); }
+.#{$wi-css-prefix}-wind-default._30-deg { @include wi-icon-rotate(30deg, 4); }
+.#{$wi-css-prefix}-wind-default._45-deg { @include wi-icon-rotate(45deg, 4); }
+.#{$wi-css-prefix}-wind-default._60-deg { @include wi-icon-rotate(60deg, 1); }
+.#{$wi-css-prefix}-wind-default._75-deg { @include wi-icon-rotate(75deg, 1); }
+.#{$wi-css-prefix}-wind-default._90-deg { @include wi-icon-rotate(90deg, 1); }
+.#{$wi-css-prefix}-wind-default._105-deg { @include wi-icon-rotate(105deg, 1); }
+.#{$wi-css-prefix}-wind-default._120-deg { @include wi-icon-rotate(120deg, 1); }
+.#{$wi-css-prefix}-wind-default._135-deg { @include wi-icon-rotate(135deg, 1); }
+.#{$wi-css-prefix}-wind-default._150-deg { @include wi-icon-rotate(150deg, 2); }
+.#{$wi-css-prefix}-wind-default._165-deg { @include wi-icon-rotate(165deg, 2); }
+.#{$wi-css-prefix}-wind-default._180-deg { @include wi-icon-rotate(180deg, 2); }
+.#{$wi-css-prefix}-wind-default._195-deg { @include wi-icon-rotate(195deg, 2); }
+.#{$wi-css-prefix}-wind-default._210-deg { @include wi-icon-rotate(210deg, 2); }
+.#{$wi-css-prefix}-wind-default._225-deg { @include wi-icon-rotate(225deg, 2); }
+.#{$wi-css-prefix}-wind-default._240-deg { @include wi-icon-rotate(240deg, 3); }
+.#{$wi-css-prefix}-wind-default._255-deg { @include wi-icon-rotate(255deg, 3); }
+.#{$wi-css-prefix}-wind-default._270-deg { @include wi-icon-rotate(270deg, 3); }
+.#{$wi-css-prefix}-wind-default._285-deg { @include wi-icon-rotate(285deg, 3); }
+.#{$wi-css-prefix}-wind-default._300-deg { @include wi-icon-rotate(300deg, 3); }
+.#{$wi-css-prefix}-wind-default._315-deg { @include wi-icon-rotate(315deg, 3); }
+.#{$wi-css-prefix}-wind-default._330-deg { @include wi-icon-rotate(330deg, 4); }
+.#{$wi-css-prefix}-wind-default._345-deg { @include wi-icon-rotate(345deg, 4); }
